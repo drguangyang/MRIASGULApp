@@ -117,7 +117,7 @@ public class MRIASGULAppGUIMain extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void ExitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitButtonActionPerformed
-        System.exit(0);
+        
     }//GEN-LAST:event_ExitButtonActionPerformed
 
     /**
